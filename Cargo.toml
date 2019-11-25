@@ -11,4 +11,5 @@ name = "rust-sudoku"
 
 [dependencies]
 piston = "*"
+pistoncore-glutin_window = "0.63.0"
 
